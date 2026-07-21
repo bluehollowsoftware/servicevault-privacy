@@ -16,9 +16,18 @@ approved for publication on July 20, 2026.
    information accurate.
 2. Open the file locally and review it at narrow and wide browser sizes.
 3. Obtain owner approval before replacing the public version.
-4. Upload the approved files to the `bluehollowsoftware/servicevault-privacy`
-   repository and confirm the public address still works over HTTPS.
-5. If the public address changes, update `privacy_policy_url` in Android string
+4. From this folder, publish the approved update with:
+
+   ```bash
+   git diff -- index.html
+   git add index.html
+   git commit -m "Update ServiceVault privacy policy"
+   git push
+   ```
+
+5. Confirm the public address still works over HTTPS and shows the approved
+   effective date and wording.
+6. If the public address changes, update `privacy_policy_url` in Android string
    resources and this README before releasing the app.
 
 Do not add analytics, advertising, remote fonts, or third-party scripts to this
