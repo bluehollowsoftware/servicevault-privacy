@@ -3,12 +3,12 @@
 This folder contains the authoritative, locally saved ServiceVault privacy
 policy. Open `index.html` in a browser to review it.
 
-## Planned public address
+## Published address
 
 https://bluehollowsoftware.github.io/servicevault-privacy/
 
-The address is already used by the Android app, but the page is not public
-until the approved files are uploaded and GitHub Pages is enabled.
+This is the public address used by the Android app. The current policy was
+approved for publication on July 20, 2026.
 
 ## Updating the policy
 
