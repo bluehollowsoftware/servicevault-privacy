@@ -8,7 +8,7 @@ policy. Open `index.html` in a browser to review it.
 https://bluehollowsoftware.github.io/servicevault-privacy/
 
 This is the public address used by the Android app. The current policy was
-approved for publication on July 20, 2026.
+approved for publication on August 3, 2026.
 
 ## Updating the policy
 
